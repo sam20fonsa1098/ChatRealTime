@@ -24,7 +24,7 @@ $ cd backend
 # Install the dependencies
 $ yarn install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ yarn slack
 
 # The server will start on the port: 3333
@@ -45,7 +45,7 @@ $ cd frontend
 # Install the dependencies
 $ yarn install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ yarn start
 
 # The web application will start at the port: 3000
